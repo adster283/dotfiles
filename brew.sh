@@ -44,5 +44,12 @@ brew install --cask utm
 brew install --cask spotify
 brew install --cask iterm2
 
+#Some dependencies for lazyvim
+brew install neovim
+brew install lazygit
+brew install tree-sitter
+brew install ripgrep
+brew install fd
+
 # Remove outdated versions from the cellar.
 brew cleanup
