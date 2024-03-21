@@ -32,6 +32,7 @@ brew install openssh
 brew install php
 brew install ruby
 brew install tmux
+brew install nvm
 
 #brew install exiv2
 brew install git
