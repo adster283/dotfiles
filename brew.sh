@@ -33,6 +33,8 @@ brew install php
 brew install ruby
 brew install tmux
 brew install nvm
+brew install ffmpeg
+brew install python3
 
 #brew install exiv2
 brew install git

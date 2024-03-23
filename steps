@@ -1,0 +1,30 @@
+Requirements:
+-Brew
+
+Next:
+run the brew.sh script to install applications
+place copy of init in home dir				#Need to fix this at some stage
+run .macos script to customise mac
+
+Restart computer:
+
+Point mac at the wallpaper folder
+
+Install dark reader on browser
+	enable preview of new theme
+	set catpuccin as the theme
+
+TODO
+-Sort out password manager
+-check lazyvim setup
+-carry over vscode setup
+-figure out macgpt
+-setup backups
+-setup git global and local user and email
+-setup spotify cli app
+-look into theme for mac os system
+-setup yabai
+-create vscode extension install script
+-setup spicetify for spotify customisation
+-look into sketchy bar
+-ensure shell is zsh
