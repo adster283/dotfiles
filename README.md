@@ -33,6 +33,12 @@ Install darkreader extension.
 
 Enable new theme preview, before selecting catpuccin theme.
 
+# Apply theme to spotify app
+
+```
+./spicetify.sh
+```
+
 # Biggest thanks to the following repos:
 
 For the wallpapers:
