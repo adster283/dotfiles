@@ -13,6 +13,10 @@ Run the brew.sh script
 ```
     sudo ./brew.sh
 ```
+Check that all packages are included in your path using:
+```
+brew list --formula | while read cask; do echo "Checking $cask"; brew --prefix $cask>/dev/null || echo "$cask not found"; done
+```
 
 Run the script to change some system settings
 ```
